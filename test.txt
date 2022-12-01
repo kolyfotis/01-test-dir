@@ -1,1 +1,3 @@
-This is the initial content of this text file.
+This is the initial content of this text file. Let's add this sentence to test how git diff works.
+
+Now I would like to check how git diff works, if I edit this file right after staging it, and before commiting.
